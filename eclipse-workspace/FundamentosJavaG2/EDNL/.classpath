@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="AppAgenda"/>
+	<classpathentry kind="src" path="AppAgenda2"/>
+	<classpathentry kind="src" path="LabTreeSet"/>
+	<classpathentry kind="src" path="Lab1"/>
+	<classpathentry kind="src" path="data"/>
+	<classpathentry kind="src" path="LabHashMap"/>
+	<classpathentry kind="src" path="MatrizAdyacencia"/>
+	<classpathentry kind="src" path="LabVehiculosAlquiler"/>
+	<classpathentry kind="src" path="LabListaAdyacencia"/>
+	<classpathentry kind="src" path="LabTrianguloFacil"/>
+	<classpathentry kind="src" path="LabAutomatas"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

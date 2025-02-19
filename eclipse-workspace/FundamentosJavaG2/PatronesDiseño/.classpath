@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="CreadorPersonajes"/>
+	<classpathentry kind="src" path="CreadorPersonajesBuildingPattern"/>
+	<classpathentry kind="src" path="Automotriz"/>
+	<classpathentry kind="src" path="Composite"/>
+	<classpathentry kind="src" path="Clase-PersonajeBuilder"/>
+	<classpathentry kind="src" path="Tienda_Project"/>
+	<classpathentry kind="src" path="Tienda_DecComp"/>
+	<classpathentry kind="src" path="Tienda_ProjectV2"/>
+	<classpathentry kind="src" path="MapaEstelar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

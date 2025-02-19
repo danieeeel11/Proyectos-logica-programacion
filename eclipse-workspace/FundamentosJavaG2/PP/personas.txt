@@ -1,0 +1,7 @@
+Sebastian:42
+Laura:20
+Margarita:7
+Luis:4
+Veronica:27
+Valery:27
+Jennifer:21

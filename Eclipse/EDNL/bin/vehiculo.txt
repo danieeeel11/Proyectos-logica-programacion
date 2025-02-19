@@ -1,0 +1,15 @@
+ABC123 rojo particular Mazda 2010 diesel 300000
+DEF231 azul turistico Renault 2008 gasolina 220000
+GHI333 gris particular Citroen 2020 diesel 800000
+JKL222 amarillo turistico Renault 2003 gasolina 120000
+MNO567 rojo particular Mazda 2011 gasolina 380000
+PQR445 azul turistico Chevrolet 2012 diesel 400000
+STU998 morado particular Audi 2021 diesel 1500000
+VWX570 verde particular Chevrolet 2020 diesel 1350000
+ZAB330 rojo particular Maserati 2021 diesel 2500000
+ZED769 amarillo turistico Honda 2010 gasolina 490000
+GTH519 rojo turistico Volvo 2015 gasolina 670000
+NUN629 azul particular BMW 2019 diesel 1700000
+BBY888 amarillo turistico Subaru 2013 gasolina 810000
+FRT871 verde particular Mini 2018 diesel 1670000
+MNT447 rojo particular Citroen 2020 diesel 2200000
